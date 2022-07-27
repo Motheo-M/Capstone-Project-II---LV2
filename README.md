@@ -7,7 +7,6 @@ This is my fifth project that demonstates my skills as a software engineer.
 
 ### What is the project
 This project contains the software that is capable of capturing all the details for any building project that has or will take place.
-This repository also contains a UML diagram of the details of the classes that will be used to create this program.
 This project is also refactored to improve the quality and readability of the code.
 
 ### How does it work
